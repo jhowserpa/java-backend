@@ -1,0 +1,7 @@
+{
+	"professores":
+	[
+		{"codigo" : "1", "nome": "Nubia Oliveira Serpa", "email": "nubia@gmail.com", "fone": "35 9987 6785" },
+		{"codigo" : "2", "nome": "Jonata Serpa", "email": "jonata@gmail.com", "fone": "35 9955 8766" }
+	]
+}	
